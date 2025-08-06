@@ -11,17 +11,14 @@
             "id": "5e082b7520f892d1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Química/Física Quântica (eu acho)/Física Quântica.canvas",
-                "viewState": {
-                  "x": -36.82756057296888,
-                  "y": -812.8061325481592,
-                  "zoom": -0.5
-                }
+                "file": "Banco de Dados/O que é Banco de Dados.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Física Quântica"
+              "icon": "lucide-file",
+              "title": "O que é Banco de Dados"
             }
           }
         ]
@@ -193,10 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24a54fc1af73eaff",
+  "active": "5e082b7520f892d1",
   "lastOpenFiles": [
-    "Química/Física Quântica (eu acho)/oloko.md",
     "Química/Física Quântica (eu acho)/Física Quântica.canvas",
+    "Banco de Dados/O que é Banco de Dados.md",
+    "Banco de Dados/Sem título",
+    "Banco de Dados",
+    "Química/Física Quântica (eu acho)/oloko.md",
     "teste testadi",
     "Química",
     "Química/Física Quântica (eu acho)/Número Quântico Azimutal ou secundário (L).md",

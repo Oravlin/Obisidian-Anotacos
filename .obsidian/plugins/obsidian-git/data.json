@@ -1,8 +1,8 @@
 {
-  "commitMessage": "backup do cofre {{date}}",
-  "autoCommitMessage": "backup do cofre {{date}}",
+  "commitMessage": "Commit cofre {{date}}",
+  "autoCommitMessage": "Commit cofre {{date}}",
   "commitMessageScript": "",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitDateFormat": "DD-MM-YYYY às HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,

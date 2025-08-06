@@ -1,0 +1,6 @@
+
+Segundo o Wikipédia, "Em informática, banco de dados ou base de dados é um conjunto de arquivos relacionados, normalmente contendo registros sobre pessoas, lugares ou informações em geral, normalmente acessíveis por via eletrônica. É uma coleção organizada de dados ou um tipo de armazenamento de dados baseado no uso de um sistema de gerenciamento de banco de dados (DBMS), o software que interage com usuários finais, aplicativos e com o próprio banco de dados, para capturar e analisar os dados. O DBMS também abrange os recursos essenciais fornecidos para administrar o banco de dados. A soma total do banco de dados, do DBMS e dos aplicativos associados pode ser chamada de sistema de banco de dados. Muitas vezes, o termo "banco de dados" também é usado de forma vaga para se referir a qualquer DBMS, ao sistema de banco de dados ou a um aplicativo associado ao banco de dados".
+
+
+**SGBD** é uma sigla para Sistema Gerenciador de Banco de Dados.
+Existe o SGBDr, sendo o 'r' para relacional, ou seja, as tabelas, onde os dados são guardados, possuem ligação, chamada relacionamento.
