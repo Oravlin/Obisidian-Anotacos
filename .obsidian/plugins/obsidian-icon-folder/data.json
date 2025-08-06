@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAlignVerticalDistributeCenter",
+      "LiAlignLeft"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Química/Física Quântica (eu acho)/Número Quântico Azimutal ou secundário (L).md": "LiAlignLeft",
+  "Química/Física Quântica (eu acho)/Número Quântico Principal.md": "LiAlignLeft",
+  "Química/Física Quântica (eu acho)/O que é Física Quântica.md": "LiAlignLeft",
+  "Química/Física Quântica (eu acho)/Princípio da Exclusão de Pauli.md": "LiAlignLeft",
+  "Química/Física Quântica (eu acho)/Princípio da Incerteza.md": "LiAlignLeft",
+  "Química/Física Quântica (eu acho)/Física Quântica.canvas": "LiAlignVerticalDistributeCenter"
+}

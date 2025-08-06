@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "9fb6b4ba95df4dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae9580e7052136c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e082b7520f892d1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Química/Física Quântica (eu acho)/Física Quântica.canvas",
+                "viewState": {
+                  "x": -36.82756057296888,
+                  "y": -812.8061325481592,
+                  "zoom": -0.5
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Física Quântica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "821d095de122d95c",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b0c795d823dff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68dbbb6c3ba02c00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "28825d271c7bc501",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d55f09e0f659ae40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f42073589af14ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "6635dc7f6118a383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8fbb7cd955b97d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Física Quântica (eu acho)/Física Quântica.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Física Quântica"
+            }
+          },
+          {
+            "id": "50d4ab5ab350f8f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Física Quântica (eu acho)/Sem título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Sem título"
+            }
+          },
+          {
+            "id": "256b7f8a1f5c10c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8683a964433fe8e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Física Quântica (eu acho)/Sem título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sem título"
+            }
+          },
+          {
+            "id": "24a54fc1af73eaff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "d9e73ced84a212dc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "24a54fc1af73eaff",
+  "lastOpenFiles": [
+    "Química/Física Quântica (eu acho)/oloko.md",
+    "Química/Física Quântica (eu acho)/Física Quântica.canvas",
+    "teste testadi",
+    "Química",
+    "Química/Física Quântica (eu acho)/Número Quântico Azimutal ou secundário (L).md",
+    "Química/Física Quântica (eu acho)/O que é Física Quântica.md",
+    "Química/Física Quântica (eu acho)/Princípio da Incerteza.md",
+    "Química/Física Quântica (eu acho)/Número Quântico Principal.md",
+    "2025-08-02.md",
+    "Química/Física Quântica (eu acho)/Princípio da Exclusão de Pauli.md",
+    "Química/Física Quântica (eu acho)/Imagens",
+    "Química/Física Quântica (eu acho)/Imagens/Salto quântico.png",
+    "sla.md",
+    "Química/Física Quântica (eu acho)"
+  ]
+}
